@@ -83,12 +83,6 @@ The dataset simulates hospital operations and includes:
 
 📌 This project is part of my data analyst portfolio, focusing on real-world problem-solving using SQL.
 
-
-## 📌 Key Insights
-- 46–55 age group contributes the highest revenue
-- Seasonal peaks observed in mid-year and Q1 & Q3
-- Electronics and Clothing dominate revenue share
-
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Rita Mahato** 
