@@ -39,16 +39,27 @@ The dataset simulates hospital operations and includes:
 ## 📅 Challenge Breakdown
 
 •	**Duration**: 21 days
+
 •	**Focus**: SQL fundamentals to advanced (queries, joins, subqueries, window functions, CTEs, optimization, modeling, and analytics)
+
 •	**Structure**: Daily topics paired with practical datasets & problem statements with resources.
+
 •	**Goal**: Equip you with strong SQL skills to query, clean, model, and analysis data — essential for roles in Data Analysis, Data Engineering, Data Science & AI and Software Development 🚀
+
 •	**Days 1-4**: SQL Fundamentals (SELECT, WHERE, ORDER BY, LIMIT)
+
 •	**Days 5-7**: Aggregation & Grouping (COUNT, SUM, AVG, GROUP BY, HAVING)
+
 •	**Days 8-9**: Data Manipulation (String & Date Functions)
+
 •	**Days 10-12**: Conditional Logic (CASE, DISTINCT, NULL Handling)
+
 •	**Days 13-15**: Combining Tables (INNER JOIN, LEFT JOIN, Multiple Joins)
+
 •	**Days 16-18**: Advanced Queries (Subqueries, UNION)
+
 •	**Days 19-20**: Analytical Functions (Window Functions)
+
 •	**Day 21**: Query Organisation (CTEs)
 
 ## 📊 Projects
