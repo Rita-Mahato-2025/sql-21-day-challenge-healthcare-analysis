@@ -79,7 +79,10 @@ The dataset simulates hospital operations and includes:
 ## 🏆 Achievements
 
 •	Completed 21-day SQL challenge streak
+![SQL Certificate](./achievements/21days_streak.png)
+
 •	Earned SQL certification
+![SQL Certificate](./achievements/sql-certificate.png)
 
 📌 This project is part of my data analyst portfolio, focusing on real-world problem-solving using SQL.
 
