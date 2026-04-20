@@ -54,6 +54,7 @@ The dataset simulates hospital operations and includes:
 ## 📊 Projects
 
 •	**Mini Project🍕(20/11)**: The Great Pizza Analytics Challenge. Analyzed pizza sales data to uncover meaningful business insights using SQL. The challenge involves solving a structured set of questions across multiple phases; from exploring and filtering data to performing aggregations and joins.
+
 •	**Capstone Project (28/11/25)👮‍♂️**: Solved a case using SQL queries by analyzing multiple tables and clues. Investigated the mysterious death of the CEO of TechNova Inc.. The objective is to utilise SQL to analyse multiple datasets — including keycard logs, phone records, alibis, and evidence — to determine who committed the crime, where and when it occurred, and how it happened. 
 
 ## 🧠 Key Learnings
