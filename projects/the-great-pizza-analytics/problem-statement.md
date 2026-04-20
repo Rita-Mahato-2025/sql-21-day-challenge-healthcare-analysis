@@ -1,0 +1,2 @@
+
+** Problem Statement ** : In this mini project, participants will assume the role of a Data Analyst at The Great Pizza, responsible for analyzing pizza sales data to uncover meaningful business insights using SQL. The challenge involves solving a structured set of questions across multiple phases; from exploring and filtering data to performing aggregations and joins.
